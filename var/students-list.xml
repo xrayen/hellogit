@@ -94,7 +94,13 @@
         <github> k4le0</github>
         <group> KrZZIs3011Io</group>
 </student>
-
+<student>
+	<firstname> Łukasz</firstame>
+	<lastname> Stefański</lastname>
+	<email> jakismail@jakisserver.com</email>
+	<github> xrayen</github>
+	<group> KrDZIs3011Io<group>
+</student>
 
 
 </students>
